@@ -1,0 +1,4 @@
+﻿  mass.cpp
+c:\users\79505\source\repos\mass\mass\mass.cpp(68): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\79505\source\repos\mass\mass\mass.cpp(78): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  mass.vcxproj -> C:\Users\79505\source\repos\mass\Debug\mass.exe
